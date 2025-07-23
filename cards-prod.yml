@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Eazybank cards related production API's"
+  contactDetails:
+    name: "krishna cards- product developer"
+    email: "vamsicards2449@gmail.com"
+  onCallSupport:
+    - (+91) 7730898748cardsprd
+    - (+91) 1223233443cardsprd

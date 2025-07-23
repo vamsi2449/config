@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank loans related production API's"
+  contactDetails:
+    name: "krishna loans- product developer"
+    email: "vamsi2449loans@gmail.com"
+  onCallSupport:
+    - (+91) 7730898748loansprd
+    - (+91) 1223233443loansprd

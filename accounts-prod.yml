@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank account related production API's"
+  contactDetails:
+    name: "krishna - product developer"
+    email: "vamsi2449@gmail.com"
+  onCallSupport:
+    - (+91) 7730898748prd
+    - (+91) 1223233443prd

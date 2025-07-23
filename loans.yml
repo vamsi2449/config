@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome to Eazybank loans related local API's"
+  contactDetails:
+    name: "vamsi - developer"
+    email: "vamsi2449@gmail.com"
+  onCallSupport:
+    - (+91) 7730898748
+    - (+91) 1223233443
+

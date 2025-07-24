@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank account related production API's"
   contactDetails:
     name: "krishna - product developer"
-    email: "{cipher}ffb7942ab9aa07fc82dad890c3e0da0961f0bb8af10604ea24c493680e9d67e48f0a0ee4fa20525173b42a5f227bcb0a"
+    email: "{cipher}aeaf9cafee531499cafc727faa462b4b7b5d5205c2bc05fc5e7f87bf6bc15164f3933d2e9d3bb1dc9c420734972b5a39"
   onCallSupport:
     - (+91) 7730898748prd
     - (+91) 1223233443prd

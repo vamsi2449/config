@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Eazybank loans related prod API's"
+  message: "Welcome to Eazybank loans related using rabbit mq prod API's"
   contactDetails:
     name: "krishna loans- product developer"
     email: "vamsi2449loans@gmail.com"

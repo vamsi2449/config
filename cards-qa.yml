@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Eazybank cards related QA API's"
+  message: "Welcome to Eazybank cards related using rabbit mq QA API's"
   contactDetails:
     name: "vamsi cards- QA Lead"
     email: "vamsi2449cards@gmail.com"

@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to Eazybank loans related local API's"
+  message: "Welcome to Eazybank loans related using rabbit mq local API's"
   contactDetails:
     name: "vamsi - developer"
     email: "vamsi2449@gmail.com"

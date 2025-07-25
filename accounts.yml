@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Eazybank account related  new local API's"
+  message: "Welcome to Eazybank account related using rabbit mq new local API's"
   contactDetails:
     name: "vamsi - developer"
     email: "vamsi2449@gmail.com"

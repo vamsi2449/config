@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Eazybank account related QA API's"
+  message: "Welcome to Eazybank account related using rabbit mq QA API's"
   contactDetails:
     name: "vamsi - QA Lead"
     email: "vamsi2449@gmail.com"
